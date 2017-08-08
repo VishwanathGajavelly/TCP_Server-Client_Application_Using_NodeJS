@@ -1,0 +1,14 @@
+{
+  "name": "tcpserver-nodejs",
+  "version": "1.0.0",
+  "description": "this is a test application for tcp server using node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishwanath Gajavelly",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}

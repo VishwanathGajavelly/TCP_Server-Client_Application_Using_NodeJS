@@ -1,0 +1,17 @@
+{
+  "name": "tcpclient-nodejs",
+  "version": "1.0.0",
+  "description": "this is a test application for tcp client",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "net": "^1.0.2",
+    "readline-sync": "^1.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishwanath Gajavelly",
+  "license": "ISC"
+}
